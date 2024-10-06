@@ -32,7 +32,7 @@ const ResManagers = () => {
               <img
                 src={manager.image}
                 alt={manager.name}
-                className="rounded-full w-32 h-32 mb-4 object-contain "
+                className="rounded-full w-32 h-32 mb-4 object-contain border-2 border-[#07395D]"
               />
               <h3 className="text-lg font-semibold">{manager.name}</h3>
               <p className="text-sm mt-2">{manager.message}</p>
