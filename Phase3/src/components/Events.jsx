@@ -9,20 +9,20 @@ const Events = () => {
     {
       id: 1,
       image: EventImage1,
-      title: 'Community Gathering',
-      preview: 'Join us for a community gathering to foster connections...',
+      title: 'Phase 3 Triumphs at Campus Festival with Stellar Performance in Formations',
+      preview: 'Phase 3 Residence celebrated a joyful victory in the Formations category at the Campus Festival, showcasing their talent and teamwork. Dominated by first-year students and led by choreographers Mr. Tshepo Mashilo and Ms. Emily Gabula, the group delivered a stellar performance that kept the entire audience of Nelson Mandela University students on their feet.',
     },
     {
       id: 2,
       image: EventImage2,
-      title: 'Annual Fundraiser',
-      preview: 'Participate in our annual fundraiser to support our initiatives...',
+      title: 'CELEBRATING SPORTSMANSHIP, The campus Residence League',
+      preview: 'University life is a unique blend of academic and extracurricular activities, each contributing to the holistic development of a student. Among these activities, the Campus Residence League holds a special place in the hearts of those who play sports and those who support them.',
     },
     
   ];
 
   return (
-    <section className=" py-8 px-6 mt-6">
+    <section className=" py-8 px-6 mt-6" id="events">
       <div className="container mx-auto">
         <h2 className="text-4xl font-bold mb-8 text-center text-[#061C2C]">Events</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">

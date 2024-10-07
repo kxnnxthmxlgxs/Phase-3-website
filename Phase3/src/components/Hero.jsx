@@ -5,7 +5,7 @@ import MobileHeroImage from '../assets/images/mobile-hero-img.png';
 
 const Hero = () => {
   return (
-    <div className=" flex flex-col justify-center items-center text-center mt-10">
+    <div className=" flex flex-col justify-center items-center text-center mt-10" id="home">
       <h1 className="text-6xl md:text-8xl  mb-4 text-[#061C2C]"><strong className="font-bold text-[#FECA1F]">Phase 3</strong> Residence</h1>
       <p className="text-xl md:text-2xl italic ">House of Champions, Home of Excellence</p>
       <br />

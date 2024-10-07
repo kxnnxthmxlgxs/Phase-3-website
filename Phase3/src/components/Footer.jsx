@@ -5,12 +5,12 @@ import NMULogo from '../assets/images/nmuLogo.png';
 
 const Footer = () => {
   return (
-    <footer className="text-[#061C2C] py-8 px-8 bg-[#FECA1F]">
+    <footer className="text-[#061C2C] py-8 px-8 bg-[#FECA1F]" id="footer">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         {/* Column 1: About Section */}
         <div>
           <h4 className="text-xl font-bold mb-4 text-white">About Us</h4>
-          <p className="text-white">
+          <p className="text-white" id="about ">
             Phase 3 Residence is a hub of excellence and champions. Our goal is to build a bright future for all our residents.
           </p>
         </div>
@@ -23,13 +23,13 @@ const Footer = () => {
               <a href="/" className="text-white hover:underline">Home</a>
             </li>
             <li className="mb-2">
-              <a href="/about" className="text-white hover:underline">About Us</a>
+              <a href="#about" className="text-white hover:underline">About Us</a>
             </li>
             <li className="mb-2">
-              <a href="/contact" className="text-white hover:underline">Contact</a>
+              <a href="#contact" className="text-white hover:underline">Contact</a>
             </li>
             <li className="mb-2">
-              <a href="/events" className="text-white hover:underline">Events</a>
+              <a href="#events" className="text-white hover:underline">Events</a>
             </li>
           </ul>
         </div>

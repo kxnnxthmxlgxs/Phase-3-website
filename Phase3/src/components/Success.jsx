@@ -9,20 +9,20 @@ const Success = () => {
     {
       id: 1,
       image: SuccessImage1,
-      title: 'My own journey with cferi and running my own business',
-      preview: 'Hear the success stories of our residents...',
+      title: 'My own journey with cferi and running my own store on campus',
+      preview: 'My journey with CFERI began during a period of uncertainty. I had a vision but lacked the necessary funding and direction. Joining the program was one of the scariest decisions I’ve ever made, but it turned out to be a beacon of hope.',
     },
     {
       id: 2,
       image: SuccessArticle2,
-      title: 'Achievements and Awards',
-      preview: 'Discover the achievements and awards of our residence...',
+      title: 'My journey through Music and Dance production',
+      preview: 'Allow me to share my journey, interwoven with the vibrant production of “Ain’t Misbehavin’.” Music is a universal language, flowing effortlessly from our tongues to touch the souls of others. It transcends borders and languages, stirring emotions even in the most stoic hearts.',
     },
     {
       id: 3,
       image: SuccessArticle3,
-      title: 'Building a Bright Future',
-      preview: 'Learn how we’re building a bright future for our residents...',
+      title: 'Overcoming Challenges, My Inspiring Journey to Academic Success',
+      preview: 'The path to academic success is often laden with challenges, but it also brings moments of profound self-discovery and triumph. As an Honours Psychology student at Nelson Mandela University, I, Hlubikazi Ntomibikayise Qunta, have navigated this journey with resilience, determination, and unwavering faith.',
     },
   ];
 

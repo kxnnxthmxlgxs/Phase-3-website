@@ -17,8 +17,16 @@ const Welcome = () => {
         
         {/* Text */}
         <p className="text-white text-lg">
-          Phase 3 Residence is more than just a place to stay. It is a home where champions live and thrive. We provide an environment of excellence, fostering growth, and community.
+        We’re excited to welcome you to the Phase 3 Residence! Here, we strive to create a community that’s both engaging and inspiring. Our mission is to keep you informed with thoughtful content and news that resonates with your experience at Phase 3.
+        <br />
+        <br />
+        In this space, you’ll discover a variety of stories and updates, from important safety measures to personal achievements within our residence. Each update reflects the spirit of excellence and community that defines our culture.
+        <br />
+        <br />
+        We invite you to explore, share your thoughts, and become an active part of our journey. Together, let’s build a community of champions and lifelong learners.
         </p>
+        
+       
       </div>
     </section>
   );

@@ -11,26 +11,26 @@ const Leadership = () => {
     {
       id: 1,
       image: LeadershipArticle1,
-      title: 'Our Leadership Team',
-      preview: 'Meet the dedicated individuals leading our residence...',
+      title: 'Ebuhlanti Platform, Empowering Tomorrow`s Leaders',
+      preview: 'Phase 3 North Campus Residence has launched a program aimed at shaping effective male leaders. The program seeks to achieve pertinent objectives such as leadership development, self-exploration, effective communication, empathy and inclusivity, ethical decision-making, and community engagement, all of which are crucial for any aspiring leader.',
     },
     {
       id: 2,
       image: LeadershipArticle2,
-      title: 'Vision and Mission',
-      preview: 'Learn about our vision and mission that drives our community...',
+      title: 'Empowering Student Leaders, Phase 3 Residence Women in Leadership Workshop',
+      preview: 'In a vibrant university residence like Phase 3 Residence, nestled amidst the bustling Nelson Mandela University Campus Life, a transformative event unfolded on Saturday, the 20th of April 2024, aimed at empowering and inspiring young student leaders, particularly female.',
     },
     {
       id: 3,
       image: LeadershipArticle3,
-      title: 'Leadership Initiatives',
-      preview: 'Discover the initiatives taken by our leadership team...',
+      title: 'The Dynamic Leadership of Phase 3 Residence',
+      preview: 'Student leadership plays a crucial role in shaping the student experience. Leaders serve as representatives, confidants, and advocates for their peers through both good and challenging times. The Phase 3 student leadership of 2024 exemplified these qualities from the very start of the year.',
     },
     {
       id: 4, // Change id to 4 for uniqueness
       image: LeadershipArticle4,
-      title: 'Leadership Strategies',
-      preview: 'Explore the strategies implemented by our leadership...',
+      title: 'Leading the Charge for a Greener Tomorrow, The GCI clean-up Campaign',
+      preview: 'The GCI Clean-Up Campaign is a dynamic initiative that fosters environmental responsibility among students, teaching them the importance of sustainability, teamwork, and community involvement.',
     },
   ];
 
