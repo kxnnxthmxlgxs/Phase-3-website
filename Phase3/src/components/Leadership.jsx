@@ -35,7 +35,7 @@ const Leadership = () => {
   ];
 
   return (
-    <section className="bg-[#07395D] py-8 px-6 mt-6">
+    <section className="bg-gradient-to-l from-[#07395D] to-[#FECA1F] py-8 px-6 mt-6">
       <div className="container mx-auto">
         <h2 className="text-4xl font-bold mb-8 text-center text-white">Leadership</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">

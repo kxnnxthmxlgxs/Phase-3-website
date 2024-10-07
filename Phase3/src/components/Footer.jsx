@@ -5,52 +5,52 @@ import NMULogo from '../assets/images/nmuLogo.png';
 
 const Footer = () => {
   return (
-    <footer className="text-[#061C2C] py-8 px-8 ">
+    <footer className="text-[#061C2C] py-8 px-8 bg-[#FECA1F]">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         {/* Column 1: About Section */}
         <div>
-          <h4 className="text-xl font-bold mb-4">About Us</h4>
-          <p className="text-[#061C2]">
+          <h4 className="text-xl font-bold mb-4 text-white">About Us</h4>
+          <p className="text-white">
             Phase 3 Residence is a hub of excellence and champions. Our goal is to build a bright future for all our residents.
           </p>
         </div>
 
         {/* Column 2: Quick Links */}
         <div>
-          <h4 className="text-xl font-bold mb-4">Quick Links</h4>
+          <h4 className="text-xl font-bold mb-4 text-white">Quick Links</h4>
           <ul>
             <li className="mb-2">
-              <a href="/" className="text-[#061C2] hover:underline">Home</a>
+              <a href="/" className="text-white hover:underline">Home</a>
             </li>
             <li className="mb-2">
-              <a href="/about" className="text-[#061C2] hover:underline">About Us</a>
+              <a href="/about" className="text-white hover:underline">About Us</a>
             </li>
             <li className="mb-2">
-              <a href="/contact" className="text-[#061C2] hover:underline">Contact</a>
+              <a href="/contact" className="text-white hover:underline">Contact</a>
             </li>
             <li className="mb-2">
-              <a href="/events" className="text-[#061C2] hover:underline">Events</a>
+              <a href="/events" className="text-white hover:underline">Events</a>
             </li>
           </ul>
         </div>
 
         {/* Column 3: Contact Information */}
-        <div>
-          <h4 className="text-xl font-bold mb-4">Contact Us</h4>
-          <p className="text-[#061C2] mb-2">
+        <div >
+          <h4 className="text-xl font-bold mb-4 text-white">Contact Us</h4>
+          <p className="text-white mb-2">
             <strong>Address:</strong> Gardham Avenue, Summerstrand, Port Elizabeth
           </p>
-          <p className="text-[#061C2] mb-2">
+          <p className="text-white mb-2">
             <strong>Phone:</strong> +27 (0)41 504 2921, +27 (0)41 504 3974, +27 (0)41 504 1854
           </p>
-          <p className="text-[#061C2] mb-2">
+          <p className="text-white mb-2">
             <strong>Email:</strong> contact@phase3residence.com
           </p>
         </div>
       </div>
 
       {/* Footer Bottom */}
-      <div className="mt-8 border-t border-gray-600 pt-4 text-center text-[#061C2]">
+      <div className="mt-8 border-t border-gray-600 pt-4 text-center text-white">
         <p>&copy; 2024 Nexus Sync Solutions. All rights reserved.</p>
         {/* Social Media Icons */}
         <div className="mt-4 space-x-4">

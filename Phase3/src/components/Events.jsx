@@ -22,9 +22,9 @@ const Events = () => {
   ];
 
   return (
-    <section className="bg-[#07395D] py-8 px-6 mt-6">
+    <section className=" py-8 px-6 mt-6">
       <div className="container mx-auto">
-        <h2 className="text-4xl font-bold mb-8 text-center text-white">Events</h2>
+        <h2 className="text-4xl font-bold mb-8 text-center text-[#061C2C]">Events</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {events.map((event) => (
             <div key={event.id} className="bg-white shadow-md p-4 rounded-lg">

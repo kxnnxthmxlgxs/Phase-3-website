@@ -12,7 +12,7 @@ const Welcome = () => {
         <img
           src={WelcomeImage}
           alt="Welcome Image"
-          className="mx-auto mb-6 w-3/4 md:w-1/2 h-auto rounded-b-full rounded-t-full border-2 border-[#FECA1F]"
+          className="mx-auto mb-6 w-3/4 md:w-1/2 h-auto rounded-b-full rounded-t-full border-4 border-[#FECA1F]"
         />
         
         {/* Text */}
